@@ -2,7 +2,9 @@
 
 Learn 6502 using Velilrog and MiSTer FPGA
 
-## day 1: Project Setup
+## Contents
+
+### [day 1: Project Setup](day1-setup/day1-setup.md)
 
 ## References
 
