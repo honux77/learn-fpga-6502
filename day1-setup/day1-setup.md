@@ -87,4 +87,3 @@ endmodule
 ## References
 
 - [Intel Quartus Lite 17.0](https://www.intel.com/content/www/us/en/software-kit/669557/intel-quartus-prime-lite-edition-design-software-version-17-0-for-windows.html?)
-- https://www.jameco.com/
