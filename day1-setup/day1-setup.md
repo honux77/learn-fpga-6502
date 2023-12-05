@@ -4,8 +4,8 @@
 
 ## 환경설정
 
-- Quotus Prime Lite 17.0 버전으로 다운받아서 설치 (반드시 같은 버전으로)
-- MiSTer 카페 옥타민님 글이 큰 도움이 되었다.
+- [Quotus Prime Lite 17.0](https://www.intel.com/content/www/us/en/software-kit/669557/intel-quartus-prime-lite-edition-design-software-version-17-0-for-windows.html) 버전으로 다운받아서 설치 (반드시 같은 버전으로)
+- MiSTer 카페 옥타민님 글(https://cafe.naver.com/misterfpga/2968) 이 큰 도움이 되었다.
 
 ## 프로젝트 진행
 
@@ -21,7 +21,7 @@
 
 (4) 컴파일 및 Pin 연결
 
-Pin Planner 로 입출력 핀을 연결한다.
+메뉴 - Assignment - Pin Planner 로 입출력 핀을 연결한다.
 
 ![add clk pll](blink4.png)
 
@@ -30,12 +30,13 @@ Pin Planner 로 입출력 핀을 연결한다.
 
 MiSTer 전원과 USB를 연결하고, 프로그래머를 실행하고 설정하면 OK
 
+자동으로 설정되는 칩을 제거하고, Add File로 빌드된 파일을 올린다.
+
 ![add clk pll](blink3.png)
 
 (6) 동작 확인
 
 보드에 빨간 불이 깜박이면 성공!
-
 
 ## 프로그램 설명
 
